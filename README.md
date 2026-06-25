@@ -1,4 +1,4 @@
-# 🛌 Sleepie
+<h1 align="center">🛌 Sleepie</h1>
 
 <p align="center">
   <strong>An elegant, privacy-first, on-device sleep posture and snore tracking assistant.</strong><br>
